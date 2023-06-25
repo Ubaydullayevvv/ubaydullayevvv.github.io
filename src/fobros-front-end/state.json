@@ -1,0 +1,75 @@
+{
+"states":[
+{
+  "id": 8863,
+  "name": "99546",
+  "city": "Adak",
+  "state": "AK"
+},
+{
+"id": 9900,
+"name": "99551",
+"city": "Akiachak",
+"state": "AK"
+},
+{
+"id": 10109,
+"name": "99552",
+"city": "Akiak",
+"state": "AK"
+},
+{
+"id": 10312,
+"name": "99553",
+"city": "Akutan",
+"state": "AK"
+},
+{
+"id": 10580,
+"name": "99554",
+"city": "Alakanuk",
+"state": "AK"
+},
+{
+"id": 10797,
+"name": "99555",
+"city": "Aleknagik",
+"state": "AK"
+},
+{
+"id": 30705,
+"name": "99720",
+"city": "Allakaket",
+"state": "AK"
+},
+{
+"id": 28912,
+"name": "99786",
+"city": "Ambler",
+"state": "AK"
+},
+{
+"id": 30884,
+"name": "99721",
+"city": "Anaktuvuk Pass",
+"state": "AK"
+},
+{
+"id": 11029,
+"name": "99556",
+"city": "Anchor Point",
+"state": "AK"
+},
+{
+"id": 1404,
+"name": "99502",
+"city": "Anchorage",
+"state": "AK"
+},
+{
+"id": 4001,
+"name": "99509",
+"city": "Anchorage",
+"state": "AK"
+}]
+}
